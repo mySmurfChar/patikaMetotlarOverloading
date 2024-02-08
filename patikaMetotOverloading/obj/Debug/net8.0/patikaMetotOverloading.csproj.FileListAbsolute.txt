@@ -1,0 +1,14 @@
+C:\işler\kelimeoop\patikaMetotOverloading\patikaMetotOverloading\bin\Debug\net8.0\patikaMetotOverloading.exe
+C:\işler\kelimeoop\patikaMetotOverloading\patikaMetotOverloading\bin\Debug\net8.0\patikaMetotOverloading.deps.json
+C:\işler\kelimeoop\patikaMetotOverloading\patikaMetotOverloading\bin\Debug\net8.0\patikaMetotOverloading.runtimeconfig.json
+C:\işler\kelimeoop\patikaMetotOverloading\patikaMetotOverloading\bin\Debug\net8.0\patikaMetotOverloading.dll
+C:\işler\kelimeoop\patikaMetotOverloading\patikaMetotOverloading\bin\Debug\net8.0\patikaMetotOverloading.pdb
+C:\işler\kelimeoop\patikaMetotOverloading\patikaMetotOverloading\obj\Debug\net8.0\patikaMetotOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\işler\kelimeoop\patikaMetotOverloading\patikaMetotOverloading\obj\Debug\net8.0\patikaMetotOverloading.AssemblyInfoInputs.cache
+C:\işler\kelimeoop\patikaMetotOverloading\patikaMetotOverloading\obj\Debug\net8.0\patikaMetotOverloading.AssemblyInfo.cs
+C:\işler\kelimeoop\patikaMetotOverloading\patikaMetotOverloading\obj\Debug\net8.0\patikaMetotOverloading.csproj.CoreCompileInputs.cache
+C:\işler\kelimeoop\patikaMetotOverloading\patikaMetotOverloading\obj\Debug\net8.0\patikaMetotOverloading.dll
+C:\işler\kelimeoop\patikaMetotOverloading\patikaMetotOverloading\obj\Debug\net8.0\refint\patikaMetotOverloading.dll
+C:\işler\kelimeoop\patikaMetotOverloading\patikaMetotOverloading\obj\Debug\net8.0\patikaMetotOverloading.pdb
+C:\işler\kelimeoop\patikaMetotOverloading\patikaMetotOverloading\obj\Debug\net8.0\patikaMetotOverloading.genruntimeconfig.cache
+C:\işler\kelimeoop\patikaMetotOverloading\patikaMetotOverloading\obj\Debug\net8.0\ref\patikaMetotOverloading.dll

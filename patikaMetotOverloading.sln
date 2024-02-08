@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patikaMetotOverloading", "patikaMetotOverloading\patikaMetotOverloading.csproj", "{F1692F57-DE7A-4047-B4E5-E92A528649ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1692F57-DE7A-4047-B4E5-E92A528649ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1692F57-DE7A-4047-B4E5-E92A528649ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1692F57-DE7A-4047-B4E5-E92A528649ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1692F57-DE7A-4047-B4E5-E92A528649ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F492EE8-4B6A-45F5-A494-BB19C4E771FE}
+	EndGlobalSection
+EndGlobal
